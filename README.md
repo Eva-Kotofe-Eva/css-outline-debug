@@ -23,12 +23,13 @@ Useful for designers, frontend developers, and layout debugging.
 2. Go to the Console tab
 3. Paste and run the script
 
-```js
-// see toggle-outline.js
-# Outline Containers Debug Script
+
+---
 
 Небольшая JavaScript-утилита для визуализации границ HTML-контейнеров прямо в браузере.  
 Полезна для дизайнеров, фронтенд-разработчиков и отладки структуры вёрстки.
+
+---
 
 ## Возможности
 
@@ -38,11 +39,11 @@ Useful for designers, frontend developers, and layout debugging.
 - Не требует зависимостей
 - Запускается напрямую из DevTools или через bookmarklet
 
+---
+
 ## Использование (DevTools)
 
 1. Откройте DevTools (F12)
 2. Перейдите во вкладку Console
 3. Вставьте и выполните код:
 
-```js
-// см. файл toggle-outline.js
