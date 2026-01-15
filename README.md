@@ -45,5 +45,7 @@ Useful for designers, frontend developers, and layout debugging.
 
 1. Откройте DevTools (F12)
 2. Перейдите во вкладку Console
-3. Вставьте и выполните код:
+3. Вставьте и выполните код
+если браузер блокирует 
+allow pasting
 
