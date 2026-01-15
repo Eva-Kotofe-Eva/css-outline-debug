@@ -1,0 +1,1 @@
+javascript:(function(){const K="__outline_enabled__";if(window[K]){document.querySelectorAll("*").forEach(e=>e.style.outline="");window[K]=false;}else{document.querySelectorAll("*").forEach(e=>e.style.outline="1px dashed rgba(170,0,255,.5)");window[K]=true;}})();
